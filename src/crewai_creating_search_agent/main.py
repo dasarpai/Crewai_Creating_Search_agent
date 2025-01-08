@@ -60,6 +60,6 @@ def test():
     except Exception as e:
         raise Exception(f"An error occurred while replaying the crew: {e}")
 
-if __name__ == "__main__":
-    print("Starting main execution...")
-    run()
+# if __name__ == "__main__":
+#     print("Starting main execution...")
+#     run()
